@@ -5,6 +5,7 @@
  */
 import http from 'http';
 import app from '../app';
+import configKeys from '../../server/config/configKeys';
 
 const debug = require('debug')('dwpcii:server');
 
@@ -25,7 +26,7 @@ function normalizePort(val) {
   return false;
 }
 
-const port = normalizePort(process.env.PORT || '3001');
+const port = normalizePort(configKeys.port);
 app.set('port', port);
 
 /**

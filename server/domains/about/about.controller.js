@@ -1,8 +1,8 @@
 // Actions methods
 
-// GET '/user/register'
+// GET "/about"
 const about = (req, res) => {
-  res.send("🚧UNDER CONSTRUCTION GET '/about'🚧");
+  res.render('home/aboutView', { appVersion: '1.0.0' });
 };
 
 export default {
