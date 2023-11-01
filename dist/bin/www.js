@@ -3,47 +3,53 @@
 /**
  * Module dependencies.
  */
+// Importing the server logic
+// require is used to import code from an external file
+// Importing an external dependecy
+// Module that allows to communicate with a client
+// usign HTTP protocol
 import http from 'http';
 import app from '../app';
 import configKeys from '../../server/config/configKeys';
 
-const debug = require('debug')('dwpcii:server');
+// Impornting winston logger
+import log from '../../server/config/winston';
+
+// Importing db connection function
+import connectWithRetry from '../../server/database/mongooseConection';
+/**
+ * Normalize a port into a number, string, or false.
+ */
+
+function normalizePort(val) {
+  const port = parseInt(val, 10);
+
+  if (Number.isNaN(port)) {
+    // named pipe
+    return val;
+  }
+
+  if (port >= 0) {
+    // port number
+    return port;
+  }
+
+  return false;
+}
 
 /**
  * Get port from environment and store in Express.
  */
 
-function normalizePort(val) {
-  const port = parseInt(val, 10);
-  if (Number.isNaN(port)) {
-    // named pipe
-    return val;
-  }
-  if (port >= 0) {
-    // port number
-    return port;
-  }
-  return false;
-}
-
-const port = normalizePort(configKeys.port);
+const port = normalizePort(process.env.PORT || '3001');
+// Store the port info in the app
 app.set('port', port);
 
 /**
  * Create HTTP server.
  */
-
-const server = http.createServer(app); // (req, res)=>{...}
-
-/**
- * Listen on provided port, on all network interfaces.
- */
-
-server.listen(port);
-
-/**
- * Normalize a port into a number, string, or false.
- */
+log.info('The server is created from the express instance');
+const server = http.createServer(app); // (req, res) => { acciones }
 
 /**
  * Event listener for HTTP server "error" event.
@@ -54,15 +60,14 @@ function onError(error) {
     throw error;
   }
   const bind = typeof port === 'string' ? `Pipe ${port}` : `Port ${port}`;
-
   // handle specific listen errors with friendly messages
   switch (error.code) {
     case 'EACCES':
-      console.error(`${bind} requires elevated privileges`);
+      log.error(`${bind} requires elevated privileges`);
       process.exit(1);
       break;
     case 'EADDRINUSE':
-      console.error(`${bind} is already in use`);
+      log.error(`${bind} is already in use`);
       process.exit(1);
       break;
     default:
@@ -76,9 +81,15 @@ function onError(error) {
 
 function onListening() {
   const addr = server.address();
-  const bind = typeof addr === 'string' ? `pipe ${addr}` : `port ${addr.port}`;
-  debug(`📢 Listening on ${bind}`);
+  log.info(`⭐⭐ Listening on ${process.env.APP_URL}:${addr.port} ⭐⭐`);
 }
-
-server.on('error', onError); // callback
+// Launching db connection
+connectWithRetry(configKeys.MONGO_URL);
+/**
+ * Listen on provided port, on all network interfaces.
+ */
+// Specifying the port where the server will be listening
+server.listen(port);
+// Attaching Callbacks to events
+server.on('error', onError);
 server.on('listening', onListening);

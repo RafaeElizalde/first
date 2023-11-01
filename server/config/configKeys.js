@@ -12,14 +12,14 @@ const defaultConfig = {
 };
 
 const devConfig = {
-  DEV_VALUE: 100,
+  MONGO_URL: process.env.DEV_DATABASE_URL,
 };
 const testConfig = {
   TEST_VALUE: 100,
 };
 
 const prodConfig = {
-  PROD_VALUE: 300,
+  MONGO_URL: process.env.PROD_DATABASE_URL,
 };
 
 // Creando una funcion selectora

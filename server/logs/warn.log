@@ -586,3 +586,63 @@
 {"level":"info","message":"GET /about 200 5.242 ms - 5094\n","timestamp":"27-10-2023 04:33:14"}
 {"level":"info","message":"GET / 200 3.385 ms - 5208\n","timestamp":"27-10-2023 04:33:24"}
 {"level":"info","message":"GET /project/add 304 0.631 ms - -\n","timestamp":"27-10-2023 04:33:34"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"27-10-2023 04:51:55"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"27-10-2023 04:51:55"}
+{"level":"info","message":"GET / 304 17.246 ms - -\n","timestamp":"27-10-2023 04:52:00"}
+{"level":"info","message":"GET /favicon.png 304 1.201 ms - -\n","timestamp":"27-10-2023 04:52:03"}
+{"level":"info","message":"GET /about 304 4.106 ms - -\n","timestamp":"27-10-2023 04:52:05"}
+{"level":"info","message":"GET /project/projects 304 0.670 ms - -\n","timestamp":"27-10-2023 04:52:18"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"27-10-2023 05:13:54"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"27-10-2023 05:13:54"}
+{"level":"info","message":"GET / 200 27.629 ms - 5208\n","timestamp":"27-10-2023 05:14:00"}
+{"level":"info","message":"GET /about 304 8.176 ms - -\n","timestamp":"27-10-2023 05:14:04"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"27-10-2023 05:34:07"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"27-10-2023 05:34:07"}
+{"level":"info","message":"GET / 304 18.274 ms - -\n","timestamp":"27-10-2023 05:34:10"}
+{"level":"info","message":"GET /about 304 8.840 ms - -\n","timestamp":"27-10-2023 05:34:16"}
+{"level":"info","message":"GET / 200 4.312 ms - 5208\n","timestamp":"27-10-2023 05:34:20"}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '31-10-2023 03:14:00'
+}
+{
+  message: '⭐⭐ Listening on undefined:3001 ⭐⭐',
+  level: 'info',
+  timestamp: '31-10-2023 03:14:00'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '31-10-2023 03:14:06'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '31-10-2023 03:48:02'
+}
+{
+  message: '⭐⭐ Listening on undefined:3001 ⭐⭐',
+  level: 'info',
+  timestamp: '31-10-2023 03:48:02'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '31-10-2023 03:48:07'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '31-10-2023 03:50:15'
+}
+{
+  message: '⭐⭐ Listening on undefined:3001 ⭐⭐',
+  level: 'info',
+  timestamp: '31-10-2023 03:50:15'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '31-10-2023 03:50:21'
+}
