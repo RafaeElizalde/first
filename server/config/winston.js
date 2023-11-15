@@ -1,13 +1,11 @@
 // Importando el core de winston
-// y la función format de winston>
-// eslint-disable-next-line import/no-extraneous-dependencies
+// y la función format de winston
 import winston, { format } from 'winston';
 import path from 'path';
 
 // Se desestructuran funciones para realizar la
 // composición del formato
-// eslint-disable-next-line object-curly-newline
-const { combine, timestamp, label, printf, prettyPrint, colorize } = format;
+const { combine, timestamp, label, printf, colorize, prettyPrint } = format;
 
 // Creando variable del directorio raiz
 // eslint-disable-next-line
@@ -39,7 +37,6 @@ const myConsoleFormat = combine(
   // Función de impreson
   printf(
     (info) =>
-      // eslint-disable-next-line implicit-arrow-linebreak
       `${info.level}: ${info.label}: ${info.timestamp}: ${info.message}`,
   ),
 );
@@ -97,6 +94,14 @@ const logger = winston.createLogger({
   ],
   exitOnError: false, // No finaliza en excepciones no manejadas
 });
+
+/*
+Por defecto Morgan envía la salida exclusivamente a la consola, algo asi:
+ Morgan --->[logs]---> consola
+Lo que haremos a continuación sera definir una función llamada "write" que será parte de un objeto que se asignará a la propiedad stream del logger, esta función será capaz de recibir la salida que genera Morgan "message" y redirigirla a winston como informativa
+Usaremos el nivel informativo para que tanto el transportador archivo como el de consola tomen el 
+Morgan --->[logs]---> Winston ---> [Logs a transportes informativos]
+*/
 
 // Estableciendo un flujo de entrada que servira
 // para interceptar el log de morgan

@@ -65,7 +65,7 @@ app.use((req, res, next) => {
     log.info('✅Verificacion de conexion a db exitosa.');
     next();
   } else {
-    log.info('🔴 No pasa la verificacion de conexion a la 80 ');
+    log.info('🔴 No pasa la verificacion de conexion a la DB ');
     res.status(503).render('errors/e503View', { layout: 'errors' });
   }
 });

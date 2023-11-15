@@ -646,3 +646,223 @@
   level: 'info',
   timestamp: '31-10-2023 03:50:21'
 }
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '01-11-2023 16:17:49'
+}
+{
+  message: '⭐⭐ Listening on undefined:3001 ⭐⭐',
+  level: 'info',
+  timestamp: '01-11-2023 16:17:49'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '01-11-2023 16:17:55'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '01-11-2023 16:18:21'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '01-11-2023 16:18:37'
+}
+{
+  message: '⭐⭐ Listening on undefined:3001 ⭐⭐',
+  level: 'info',
+  timestamp: '01-11-2023 16:18:37'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '01-11-2023 16:18:45'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '01-11-2023 16:19:14'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '01-11-2023 16:19:35'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '01-11-2023 16:19:42'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '01-11-2023 16:20:11'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '01-11-2023 16:21:56'
+}
+{
+  message: '⭐⭐ Listening on undefined:3001 ⭐⭐',
+  level: 'info',
+  timestamp: '01-11-2023 16:21:56'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '01-11-2023 16:22:01'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '01-11-2023 16:22:04'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la 80 ',
+  level: 'info',
+  timestamp: '01-11-2023 16:22:04'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '01-11-2023 16:39:40'
+}
+{
+  message: '⭐⭐ Listening on undefined:3001 ⭐⭐',
+  level: 'info',
+  timestamp: '01-11-2023 16:39:40'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:39:48'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:39:49'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '01-11-2023 16:41:03'
+}
+{
+  message: '⭐⭐ Listening on undefined:3001 ⭐⭐',
+  level: 'info',
+  timestamp: '01-11-2023 16:41:03'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:41:08'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:41:10'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:42:04'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:42:27'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:42:28'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:42:35'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:42:36'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:47:46'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:47:47'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:47:55'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:47:56'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:55:07'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:55:08'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '01-11-2023 16:55:08'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '05-11-2023 05:49:22'
+}
+{
+  message: '⭐⭐ Listening on undefined:3001 ⭐⭐',
+  level: 'info',
+  timestamp: '05-11-2023 05:49:22'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '05-11-2023 05:49:38'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '05-11-2023 05:49:38'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '05-11-2023 05:49:38'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '05-11-2023 05:49:41'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '05-11-2023 05:49:42'
+}
+{
+  message: '🔴 No pasa la verificacion de conexion a la DB ',
+  level: 'info',
+  timestamp: '05-11-2023 05:49:42'
+}
