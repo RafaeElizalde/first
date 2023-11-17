@@ -5,31 +5,33 @@
 const path = require('path');
 // Importing Extract Plugin
 
+// eslint-disable-next-line import/no-extraneous-dependencies
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const ESlintPlugin = require("eslint-webpack-plugin");
+// eslint-disable-next-line import/no-extraneous-dependencies
+const ESlintPlugin = require('eslint-webpack-plugin');
 
 // Exportamos un objeto de configuración
 // que sera usado por webpack
 module.exports = {
   // 1. El archivo de entrada o indexador
-  entry: "./client/index.js",
+  entry: './client/index.js',
   // 2. Especificar el archivo de salida
   output: {
     // 2.1 Ruta absoluta de salida
-    path: path.resolve(__dirname, "public"),
+    path: path.resolve(__dirname, 'public'),
     // 2.2 Nombre del archivo de salida
-    filename: "bundle.js",
-		// 2.3 Ruta base de archivos estaticos
-    publicPath: "/"
+    filename: 'bundle.js',
+    // 2.3 Ruta base de archivos estaticos
+    publicPath: '/',
   },
   // 3. Configurando el servidor de desarrollo
   devServer: {
     // 3.1 Folder de archivos estáticos
-    static: path.join(__dirname, "public"),
+    static: path.join(__dirname, 'public'),
     // 3.2 Puerto del servidor de desarrollo
     port: 8080,
     // 3.3 Definiendo el host
-    host: "0.0.0.0"
+    host: '0.0.0.0',
   },
   // Agregando un modulo a webpack
   module: {
@@ -45,30 +47,31 @@ module.exports = {
                 [
                   '@babel/preset-env',
                   {
-                    'modules': false,
-                    'useBuiltIns': 'usage',
-                    'targets': {"chrome": "80"},
-                    'corejs': 3
-                  }
-                ]
-              ]
-            }
-          }
-        ]
+                    modules: false,
+                    useBuiltIns: 'usage',
+                    targets: { chrome: '80' },
+                    corejs: 3,
+                  },
+                ],
+              ],
+            },
+          },
+        ],
       },
-     // Regla para cagar estilos
-     {
-      test: /\.css$/,
-      use: [MiniCssExtractPlugin.loader, 'css-loader']
-    }
-  ]
-},
-// Sección de Plugins
-plugins: [
-  new MiniCssExtractPlugin({
-  // Archivo css de salida
-  filename: 'styles/app.css'
+      // Regla para cagar estilos
+      {
+        test: /\.css$/,
+        use: [MiniCssExtractPlugin.loader, 'css-loader'],
+      },
+    ],
+  },
+  // Sección de Plugins
+  plugins: [
+    new MiniCssExtractPlugin({
+      // Archivo css de salida
+      filename: 'styles/app.css',
+      // eslint-disable-next-line prettier/prettier
 }),
-new ESlintPlugin()
-],
+    new ESlintPlugin(),
+  ],
 };

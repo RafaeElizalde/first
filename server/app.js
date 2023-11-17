@@ -59,13 +59,13 @@ if (nodeEnviroment === 'development') {
   console.log('🏭 Ejecutando en modo producción 🏭');
 }
 
-// database connection cheker middleware
+// Database connecting checker Middleware
 app.use((req, res, next) => {
   if (mongoose.connection.readyState === 1) {
-    log.info('✅Verificacion de conexion a db exitosa.');
+    log.info('✔Verificacion de conexion a db exitosa');
     next();
   } else {
-    log.info('🔴 No pasa la verificacion de conexion a la DB ');
+    log.info('❌No pasa la verificacion de conexion a la DB');
     res.status(503).render('errors/e503View', { layout: 'errors' });
   }
 });
