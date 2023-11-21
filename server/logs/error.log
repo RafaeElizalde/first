@@ -1,0 +1,5 @@
+{
+  message: 'ln 53 project.controller: Error al guardar proyecto en la base de datos',
+  level: 'error',
+  timestamp: '21-11-2023 01:21:07'
+}
