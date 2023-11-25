@@ -8,7 +8,7 @@ router.get('/', (req, res) => {
 });
 
 router.get('/author', (req, res) => {
-  res.render('author', { author: 'Espinoza Aylen' });
+  res.render('author', { author: 'Rafael elizalde' });
 });
 
 module.exports = router;
