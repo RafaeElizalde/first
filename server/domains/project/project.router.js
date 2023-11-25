@@ -17,9 +17,11 @@ const router = new Router();
 router.get('/', projectController.showDashboard);
 
 router.get('/showDashboard', projectController.showDashboard);
+
 // GET "/project/add"
 router.get('/add', projectController.add);
 
+// POST "/project/add"
 router.post(
   '/add',
   ValidateFactory({
@@ -27,6 +29,19 @@ router.post(
     getObject: projectValidator.getProject,
   }),
   projectController.addPost,
+);
+
+// GET "/project/edit/:id"
+router.get('/edit/:id', projectController.edit);
+
+// PUT "/project/edit/:id"
+router.put(
+  '/edit/:id',
+  ValidateFactory({
+    schema: projectValidator.projectSchema,
+    getObject: projectValidator.getProject,
+  }),
+  projectController.editPut,
 );
 
 // Exporto este tramo de ruta

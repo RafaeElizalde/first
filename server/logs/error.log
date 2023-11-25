@@ -3,3 +3,8 @@
   level: 'error',
   timestamp: '21-11-2023 01:21:07'
 }
+{
+  message: 'Ocurre un error en: metodo "error" de project.controller',
+  level: 'error',
+  timestamp: '25-11-2023 04:27:44'
+}
