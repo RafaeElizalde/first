@@ -7225,3 +7225,18 @@
   level: 'info',
   timestamp: '25-11-2023 06:18:09'
 }
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 06:18:32'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '25-11-2023 06:18:32'
+}
+{
+  message: 'GET /project/showDashboard 200 49.040 ms - 6907\n',
+  level: 'info',
+  timestamp: '25-11-2023 06:18:32'
+}
