@@ -127,6 +127,8 @@ const addPost = async (req, res) => {
     return res.status(500).json(error);
   }
 };
+// DELETE "/project/:id"
+const deleteProject = (req, res) => res.status(200).json({ id: req.params.id });
 
 export default {
   add,
@@ -134,4 +136,5 @@ export default {
   addPost,
   edit,
   editPut,
+  deleteProject,
 };
