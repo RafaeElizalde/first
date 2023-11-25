@@ -7957,3 +7957,178 @@
   level: 'info',
   timestamp: '25-11-2023 07:16:16'
 }
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:13'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:13'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:13'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:16'
+}
+{
+  message: '404 Pagina no encontrada GET /main.77241ee15a6e1c0fa1f2.hot-update.json',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:16'
+}
+{
+  message: 'GET /main.77241ee15a6e1c0fa1f2.hot-update.json 404 5.329 ms - 2092\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:16'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:17'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:17'
+}
+{
+  message: 'GET /project/showDashboard 304 49.549 ms - -\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:17'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:17'
+}
+{
+  message: '404 Pagina no encontrada GET /main.77241ee15a6e1c0fa1f2.hot-update.json',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:17'
+}
+{
+  message: 'GET /main.77241ee15a6e1c0fa1f2.hot-update.json 404 1.511 ms - 2092\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:17'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:17'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:17'
+}
+{
+  message: 'GET /project/showDashboard 304 9.432 ms - -\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:17'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:18'
+}
+{
+  message: 'GET /favicon.png 304 0.910 ms - -\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:18'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:18'
+}
+{
+  message: 'GET /favicon.png 304 0.408 ms - -\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:18'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:19'
+}
+{
+  message: 'GET / 200 4.615 ms - 5218\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:19'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:22'
+}
+{
+  message: 'GET /project/add 200 34.447 ms - 6334\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:22'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:23'
+}
+{
+  message: 'GET /images/addproject.png 304 0.407 ms - -\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:23'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:27'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:27'
+}
+{
+  message: 'GET /project/showDashboard 304 11.905 ms - -\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:27'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:30'
+}
+{
+  message: 'DELETE /project/65619e8c8b209617fb072e1e 200 6.169 ms - 124\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:30'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:30'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:30'
+}
+{
+  message: 'GET /project/showDashboard 200 10.107 ms - 5495\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:30'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:31'
+}
+{
+  message: 'GET /favicon.png 304 1.002 ms - -\n',
+  level: 'info',
+  timestamp: '25-11-2023 07:24:31'
+}
