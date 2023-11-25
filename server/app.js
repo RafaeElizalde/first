@@ -20,6 +20,9 @@ import configTemplateEngine from './config/templateEngine';
 // Impornting winston logger
 import log from './config/winston';
 
+// Importando configurador de sesiones
+import configSession from './config/configSessions';
+
 // Importando enrutador
 import router from './router';
 // Creando variable del directorio raiz
@@ -80,8 +83,12 @@ app.use(morgan('dev', { stream: log.stream }));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
+
 // Enable post and delete verbs
 app.use(methodOverride('_method'));
+
+// Habilitando manejo de sesiones y mensajes flash
+configSession(app);
 
 // Crea un server de archivos estaticos
 app.use(express.static(path.join(__dirname, '..', 'public')));
