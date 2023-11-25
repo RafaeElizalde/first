@@ -7,6 +7,7 @@ import 'materialize-css/dist/css/materialize.css';
 // Importando scripts de Materialize
 import 'materialize-css/dist/js/materialize';
 /* eslint-enable */
+// Script para borrar proyecto
 
 // Inicializando Scripts de Materialize para interactividad
 M.AutoInit();
