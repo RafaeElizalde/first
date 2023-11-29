@@ -9458,3 +9458,278 @@
   level: 'info',
   timestamp: '26-11-2023 00:37:25'
 }
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '26-11-2023 04:55:36'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '26-11-2023 04:55:36'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '26-11-2023 04:55:36'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '26-11-2023 04:55:41'
+}
+{
+  message: 'GET / 304 53.895 ms - -\n',
+  level: 'info',
+  timestamp: '26-11-2023 04:55:41'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '26-11-2023 04:55:48'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '26-11-2023 04:55:48'
+}
+{
+  message: 'GET /user/register 500 6.897 ms - 3425\n',
+  level: 'info',
+  timestamp: '26-11-2023 04:55:48'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '26-11-2023 04:55:55'
+}
+{
+  message: 'Se entrega formulario de login',
+  level: 'info',
+  timestamp: '26-11-2023 04:55:55'
+}
+{
+  message: 'GET /user/login 500 4.349 ms - 3418\n',
+  level: 'info',
+  timestamp: '26-11-2023 04:55:55'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '26-11-2023 04:56:02'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '26-11-2023 04:56:02'
+}
+{
+  message: 'GET /user/register 500 11.494 ms - 3425\n',
+  level: 'info',
+  timestamp: '26-11-2023 04:56:02'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '26-11-2023 05:01:09'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '26-11-2023 05:01:09'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '26-11-2023 05:01:10'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '26-11-2023 05:01:12'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '26-11-2023 05:01:12'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '26-11-2023 05:01:12'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '26-11-2023 05:18:06'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '26-11-2023 05:18:06'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '26-11-2023 05:18:06'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '26-11-2023 05:18:10'
+}
+{
+  message: 'GET / 200 37.657 ms - 5219\n',
+  level: 'info',
+  timestamp: '26-11-2023 05:18:10'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '26-11-2023 05:18:23'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '26-11-2023 05:18:23'
+}
+{
+  message: 'GET /user/register 500 6.680 ms - 3425\n',
+  level: 'info',
+  timestamp: '26-11-2023 05:18:23'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 03:54:11'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 03:54:11'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 03:54:12'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 03:54:28'
+}
+{
+  message: 'GET / 200 25.790 ms - 5219\n',
+  level: 'info',
+  timestamp: '29-11-2023 03:54:28'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 03:54:35'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '29-11-2023 03:54:35'
+}
+{
+  message: 'GET /user/register 500 8.485 ms - 3425\n',
+  level: 'info',
+  timestamp: '29-11-2023 03:54:35'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 03:54:35'
+}
+{
+  message: '404 Pagina no encontrada GET /favicon.ico',
+  level: 'info',
+  timestamp: '29-11-2023 03:54:35'
+}
+{
+  message: 'GET /favicon.ico 404 5.709 ms - 2092\n',
+  level: 'info',
+  timestamp: '29-11-2023 03:54:35'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 05:09:50'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 05:09:50'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 05:09:50'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:09:56'
+}
+{
+  message: 'GET / 200 49.154 ms - 5218\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:09:56'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:10:03'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '29-11-2023 05:10:03'
+}
+{
+  message: 'GET /user/register 200 10.642 ms - 6460\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:10:03'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:17:41'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '29-11-2023 05:17:41'
+}
+{
+  message: 'GET /user/register 304 12.256 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:17:41'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:17:46'
+}
+{
+  message: 'Se entrega formulario de login',
+  level: 'info',
+  timestamp: '29-11-2023 05:17:46'
+}
+{
+  message: 'GET /user/login 200 10.679 ms - 5756\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:17:46'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:17:46'
+}
+{
+  message: 'GET /images/project.jpg 200 5.170 ms - 58236\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:17:46'
+}

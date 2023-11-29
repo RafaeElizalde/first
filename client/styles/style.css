@@ -15,3 +15,7 @@ body{
     text-shadow: 2px 2px 4px rgba(0,0,0,0.6); 
     font-size: 24px;
   }
+  .logo{
+    width: 130px;
+    margin: auto;
+  }
