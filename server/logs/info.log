@@ -9733,3 +9733,833 @@
   level: 'info',
   timestamp: '29-11-2023 05:17:46'
 }
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 05:29:16'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 05:29:16'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 05:29:16'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:29:29'
+}
+{
+  message: 'GET / 200 37.770 ms - 5219\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:29:29'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:29:32'
+}
+{
+  message: 'GET /favicon.png 200 4.898 ms - 1747\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:29:32'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:29:34'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '29-11-2023 05:29:34'
+}
+{
+  message: 'GET /user/register 304 17.858 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:29:34'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:08'
+}
+{
+  message: 'Se entrega formulario de login',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:08'
+}
+{
+  message: 'GET /user/login 304 12.066 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:08'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:09'
+}
+{
+  message: 'GET /images/project.jpg 304 2.365 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:09'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:14'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:14'
+}
+{
+  message: 'GET /user/register 304 10.607 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:14'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:18'
+}
+{
+  message: '404 Pagina no encontrada POST /user/register',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:18'
+}
+{
+  message: 'POST /user/register 404 34.385 ms - 4531\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:18'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:18'
+}
+{
+  message: '404 Pagina no encontrada GET /favicon.ico',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:18'
+}
+{
+  message: 'GET /favicon.ico 404 3.887 ms - 2092\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:18'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:24'
+}
+{
+  message: 'Se entrega formulario de login',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:24'
+}
+{
+  message: 'GET /user/login 304 10.274 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:24'
+}
+{
+  message: 'GET /images/project.jpg 304 1.975 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:25'
+}
+{
+  message: '404 Pagina no encontrada POST /user/login',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:25'
+}
+{
+  message: 'POST /user/login 404 4.892 ms - 4531\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:25'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:32'
+}
+{
+  message: 'GET /user/logout 200 2.210 ms - 48\n',
+  level: 'info',
+  timestamp: '29-11-2023 05:39:32'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:29'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:29'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:29'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:32'
+}
+{
+  message: '404 Pagina no encontrada GET /main.cbb80bbe30a9cc25fa9b.hot-update.json',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:32'
+}
+{
+  message: 'GET /main.cbb80bbe30a9cc25fa9b.hot-update.json 404 10.527 ms - 2092\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:32'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:32'
+}
+{
+  message: 'Se entrega formulario de login',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:32'
+}
+{
+  message: 'GET /user/login 304 25.106 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:32'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:33'
+}
+{
+  message: 'GET /images/project.jpg 304 2.809 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:33'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:35'
+}
+{
+  message: 'GET /favicon.png 304 2.577 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:35'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:45'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:45'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:45'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:56'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:56'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 06:02:56'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 06:04:19'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 06:04:19'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 06:04:19'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 06:05:29'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 06:05:29'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 06:05:29'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:05:44'
+}
+{
+  message: 'GET / 200 28.404 ms - 5218\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:05:44'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:05:49'
+}
+{
+  message: 'GET /user/register 200 2.695 ms - 50\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:05:49'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:05:52'
+}
+{
+  message: 'Se entrega formulario de login',
+  level: 'info',
+  timestamp: '29-11-2023 06:05:52'
+}
+{
+  message: 'GET /user/login 304 13.252 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:05:52'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:10'
+}
+{
+  message: 'GET /user/logout 304 2.912 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:10'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:21'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:21'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:21'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:24'
+}
+{
+  message: '404 Pagina no encontrada GET /main.3fc32a79308e817c009f.hot-update.json',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:24'
+}
+{
+  message: 'GET /main.3fc32a79308e817c009f.hot-update.json 404 10.511 ms - 2092\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:24'
+}
+{
+  message: 'Se entrega formulario de login',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:24'
+}
+{
+  message: 'GET /user/login 304 26.838 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:25'
+}
+{
+  message: 'GET /images/project.jpg 304 2.822 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:25'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:44'
+}
+{
+  message: 'GET /favicon.png 304 2.870 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:06:44'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 06:14:21'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 06:14:21'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 06:14:21'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 06:14:24'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 06:14:24'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 06:14:24'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 06:14:32'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 06:14:32'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 06:14:32'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:14:36'
+}
+{
+  message: 'GET / 200 28.953 ms - 5219\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:14:36'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:05'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:05'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:05'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:08'
+}
+{
+  message: '404 Pagina no encontrada GET /main.977583a2d67903070c69.hot-update.json',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:08'
+}
+{
+  message: 'GET /main.977583a2d67903070c69.hot-update.json 404 10.723 ms - 2092\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:08'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:08'
+}
+{
+  message: 'GET / 200 24.334 ms - 5219\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:08'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:08'
+}
+{
+  message: 'GET / 200 10.848 ms - 5219\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:08'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:11'
+}
+{
+  message: 'GET /favicon.png 304 3.481 ms - -\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:11'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:36'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:36'
+}
+{
+  message: 'GET /user/register 200 13.222 ms - 6460\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:15:36'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:16:29'
+}
+{
+  message: 'Se procesa formulario de registro',
+  level: 'info',
+  timestamp: '29-11-2023 06:16:29'
+}
+{
+  errors: {
+    password: ValidatorError: Es necesario ingresar password
+        at validate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1364:13)
+        at SchemaString.SchemaType.doValidate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1348:7)
+        at /workspaces/first/node_modules/mongoose/lib/document.js:2958:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Es necesario ingresar password',
+        type: 'required',
+        path: 'password',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'password',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Es necesario ingresar email
+        at validate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1364:13)
+        at SchemaString.SchemaType.doValidate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1348:7)
+        at /workspaces/first/node_modules/mongoose/lib/document.js:2958:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Es necesario ingresar email',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    lastname: ValidatorError: Path `lastname` is required.
+        at validate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1364:13)
+        at SchemaString.SchemaType.doValidate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1348:7)
+        at /workspaces/first/node_modules/mongoose/lib/document.js:2958:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `lastname` is required.',
+        type: 'required',
+        path: 'lastname',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'lastname',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    firstName: ValidatorError: Path `firstName` is required.
+        at validate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1364:13)
+        at SchemaString.SchemaType.doValidate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1348:7)
+        at /workspaces/first/node_modules/mongoose/lib/document.js:2958:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `firstName` is required.',
+        type: 'required',
+        path: 'firstName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'firstName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'user validation failed',
+  level: 'error',
+  message: 'undefined',
+  timestamp: '29-11-2023 06:16:29'
+}
+{
+  message: 'POST /user/register 200 12.184 ms - 158\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:16:29'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 06:19:00'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 06:19:00'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 06:19:00'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:19:07'
+}
+{
+  message: 'GET / 200 43.435 ms - 5219\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:19:07'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:19:12'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '29-11-2023 06:19:12'
+}
+{
+  message: 'GET /user/register 200 20.525 ms - 6460\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:19:12'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:19:18'
+}
+{
+  message: 'Se procesa formulario de registro',
+  level: 'info',
+  timestamp: '29-11-2023 06:19:18'
+}
+{
+  errors: {
+    password: ValidatorError: Es necesario ingresar password
+        at validate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1364:13)
+        at SchemaString.SchemaType.doValidate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1348:7)
+        at /workspaces/first/node_modules/mongoose/lib/document.js:2958:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Es necesario ingresar password',
+        type: 'required',
+        path: 'password',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'password',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Es necesario ingresar email
+        at validate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1364:13)
+        at SchemaString.SchemaType.doValidate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1348:7)
+        at /workspaces/first/node_modules/mongoose/lib/document.js:2958:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Es necesario ingresar email',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    lastname: ValidatorError: Path `lastname` is required.
+        at validate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1364:13)
+        at SchemaString.SchemaType.doValidate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1348:7)
+        at /workspaces/first/node_modules/mongoose/lib/document.js:2958:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `lastname` is required.',
+        type: 'required',
+        path: 'lastname',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'lastname',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    firstName: ValidatorError: Path `firstName` is required.
+        at validate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1364:13)
+        at SchemaString.SchemaType.doValidate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1348:7)
+        at /workspaces/first/node_modules/mongoose/lib/document.js:2958:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `firstName` is required.',
+        type: 'required',
+        path: 'firstName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'firstName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'user validation failed',
+  level: 'error',
+  message: 'undefined',
+  timestamp: '29-11-2023 06:19:18'
+}
+{
+  message: 'POST /user/register 200 10.404 ms - 124\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:19:18'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:11'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:11'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:11'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:15'
+}
+{
+  message: 'GET / 200 83.958 ms - 5219\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:15'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:19'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:19'
+}
+{
+  message: 'GET /user/register 200 17.992 ms - 6460\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:19'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:22'
+}
+{
+  message: 'Se entrega formulario de login',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:22'
+}
+{
+  message: 'GET /user/login 200 20.373 ms - 5756\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:22'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:22'
+}
+{
+  message: 'GET /images/project.jpg 200 3.161 ms - 58236\n',
+  level: 'info',
+  timestamp: '29-11-2023 06:56:22'
+}
