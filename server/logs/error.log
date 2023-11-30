@@ -168,3 +168,107 @@
   message: 'undefined',
   timestamp: '29-11-2023 06:19:18'
 }
+{
+  errors: {
+    email: ValidatorError: Es necesario ingresar email
+        at validate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1364:13)
+        at SchemaString.SchemaType.doValidate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1348:7)
+        at /workspaces/first/node_modules/mongoose/lib/document.js:2958:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Es necesario ingresar email',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'user validation failed',
+  level: 'error',
+  message: 'undefined',
+  timestamp: '30-11-2023 04:47:07'
+}
+{
+  errors: {
+    email: ValidatorError: Es necesario ingresar email
+        at validate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1364:13)
+        at SchemaString.SchemaType.doValidate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1348:7)
+        at /workspaces/first/node_modules/mongoose/lib/document.js:2958:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Es necesario ingresar email',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'user validation failed',
+  level: 'error',
+  message: 'undefined',
+  timestamp: '30-11-2023 04:47:42'
+}
+{
+  errors: {
+    email: ValidatorError: Es necesario ingresar email
+        at validate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1364:13)
+        at SchemaString.SchemaType.doValidate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1348:7)
+        at /workspaces/first/node_modules/mongoose/lib/document.js:2958:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Es necesario ingresar email',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'user validation failed',
+  level: 'error',
+  message: 'undefined',
+  timestamp: '30-11-2023 04:56:00'
+}
+{
+  errors: {
+    email: ValidatorError: Es necesario ingresar email
+        at validate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1364:13)
+        at SchemaString.SchemaType.doValidate (/workspaces/first/node_modules/mongoose/lib/schematype.js:1348:7)
+        at /workspaces/first/node_modules/mongoose/lib/document.js:2958:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Es necesario ingresar email',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'user validation failed',
+  level: 'error',
+  message: 'undefined',
+  timestamp: '30-11-2023 04:57:33'
+}
