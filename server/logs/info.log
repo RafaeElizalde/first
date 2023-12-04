@@ -11337,3 +11337,289 @@
   level: 'info',
   timestamp: '30-11-2023 05:28:51'
 }
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:26'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:26'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:27'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:35'
+}
+{
+  message: 'GET / 200 35.163 ms - 5219\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:35'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:40'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:40'
+}
+{
+  message: 'GET /user/register 200 20.917 ms - 6460\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:40'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:46'
+}
+{
+  message: 'GET /user/logout 200 11.056 ms - 48\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:46'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:47'
+}
+{
+  message: '404 Pagina no encontrada GET /favicon.ico',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:47'
+}
+{
+  message: 'GET /favicon.ico 404 4.439 ms - 2092\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:47'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:50'
+}
+{
+  message: 'GET / 200 14.519 ms - 5219\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:50'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:54'
+}
+{
+  message: 'GET /about 200 7.827 ms - 5105\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:54'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:58'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:58'
+}
+{
+  message: 'GET /project/showDashboard 200 26.729 ms - 4746\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:19:58'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:02'
+}
+{
+  message: 'GET /project/add 200 93.304 ms - 6335\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:02'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:02'
+}
+{
+  message: 'GET /images/addproject.png 200 4.102 ms - 250615\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:02'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:18'
+}
+{
+  message: 'Se carga proyecto {\n' +
+    "  name: 'Proyecto 1',\n" +
+    "  description: 'Asombroso 1',\n" +
+    '  _id: new ObjectId("656acca28237306b925d70fd"),\n' +
+    '  date: 2023-12-02T06:20:18.074Z,\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:18'
+}
+{
+  message: 'Se redirecciona el sistema a /project',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:18'
+}
+{
+  message: 'POST /project/add 302 25.693 ms - 88\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:18'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:18'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:18'
+}
+{
+  message: 'GET /project/showDashboard 200 12.485 ms - 5820\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:18'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:24'
+}
+{
+  message: 'Se entrega formulario de login',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:24'
+}
+{
+  message: 'GET /user/login 200 11.843 ms - 5756\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:24'
+}
+{
+  message: 'GET /images/project.jpg 200 9.912 ms - 58236\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:34'
+}
+{
+  message: '404 Pagina no encontrada POST /user/login',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:34'
+}
+{
+  message: 'POST /user/login 404 26.044 ms - 4531\n',
+  level: 'info',
+  timestamp: '02-12-2023 06:20:34'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '04-12-2023 04:30:54'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '04-12-2023 04:30:54'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '04-12-2023 04:30:55'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '04-12-2023 04:30:57'
+}
+{
+  message: 'GET / 200 32.733 ms - 5219\n',
+  level: 'info',
+  timestamp: '04-12-2023 04:30:57'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '04-12-2023 04:31:01'
+}
+{
+  message: 'GET /favicon.png 200 5.005 ms - 1747\n',
+  level: 'info',
+  timestamp: '04-12-2023 04:31:01'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '04-12-2023 04:31:05'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '04-12-2023 04:31:05'
+}
+{
+  message: 'GET /user/register 200 18.664 ms - 6460\n',
+  level: 'info',
+  timestamp: '04-12-2023 04:31:05'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '04-12-2023 04:33:50'
+}
+{
+  message: 'Se procesa formulario de registro',
+  level: 'info',
+  timestamp: '04-12-2023 04:33:50'
+}
+{
+  message: 'Usuario creado: {"id":"656d56aeb4d2e545c4d67131","firstName":"Steve","lastname":"Jobs","mail":"steve.jobs@gmail.com","createdAt":"2023-12-04T04:33:50.075Z","updatedAt":"2023-12-04T04:33:50.075Z","role":"user"}',
+  level: 'info',
+  timestamp: '04-12-2023 04:33:50'
+}
+{
+  message: 'POST /user/register 200 92.664 ms - 193\n',
+  level: 'info',
+  timestamp: '04-12-2023 04:33:50'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '04-12-2023 04:33:50'
+}
+{
+  message: '404 Pagina no encontrada GET /favicon.ico',
+  level: 'info',
+  timestamp: '04-12-2023 04:33:50'
+}
+{
+  message: 'GET /favicon.ico 404 4.989 ms - 2092\n',
+  level: 'info',
+  timestamp: '04-12-2023 04:33:50'
+}

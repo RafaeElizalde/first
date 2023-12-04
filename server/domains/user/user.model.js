@@ -47,6 +47,13 @@ const UserSchema = new Schema(
         message: 'Es necesario ingresar un password fuerte',
       },
     },
+    // agrega una propiedad que identifica el rol del usuario como user o admin
+    role: {
+      type: String,
+      enum: ['user', 'admin'],
+      message: '{VALUE} no es un rol valido',
+      default: 'user',
+    },
     emailConfirmationToken: String,
     emailConfirmationAt: Date,
   },
@@ -77,6 +84,7 @@ UserSchema.methods = {
       emailConfirmationAt: this.emailConfirmationAt,
       createdAt: this.createdAt,
       updatedAt: this.updatedAt,
+      role: this.role,
     };
   },
 };
