@@ -272,3 +272,18 @@
   message: 'undefined',
   timestamp: '30-11-2023 04:57:33'
 }
+{
+  message: 'user validation failed: mail: Error, expected `mail` to be unique. Value: `daniela@gmail.com`',
+  level: 'error',
+  timestamp: '07-12-2023 06:23:38'
+}
+{
+  message: 'user validation failed: mail: Error, expected `mail` to be unique. Value: `ivan1206@gmail.com`',
+  level: 'error',
+  timestamp: '08-12-2023 06:40:15'
+}
+{
+  message: 'user validation failed: mail: Error, expected `mail` to be unique. Value: `ivan1206@gmail.com`',
+  level: 'error',
+  timestamp: '08-12-2023 06:40:59'
+}

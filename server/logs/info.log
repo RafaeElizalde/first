@@ -12028,3 +12028,768 @@
   level: 'info',
   timestamp: '06-12-2023 23:43:57'
 }
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:21'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:21'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:21'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:25'
+}
+{
+  message: 'GET / 200 32.455 ms - 5219\n',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:25'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:31'
+}
+{
+  message: 'Se entrega formulario de login',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:31'
+}
+{
+  message: 'GET /user/login 200 18.706 ms - 5756\n',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:31'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:32'
+}
+{
+  message: 'GET /images/project.jpg 200 13.291 ms - 58236\n',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:32'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:33'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:33'
+}
+{
+  message: 'GET /user/register 200 14.935 ms - 6460\n',
+  level: 'info',
+  timestamp: '07-12-2023 04:55:33'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 04:56:04'
+}
+{
+  message: 'Se procesa formulario de registro',
+  level: 'info',
+  timestamp: '07-12-2023 04:56:04'
+}
+{
+  message: '🎉 Correo enviado con exito',
+  level: 'info',
+  timestamp: '07-12-2023 04:56:05'
+}
+{
+  message: 'Usuario creado: {"id":"6571506452fbc6371cd0ef1c","firstName":"marcos","lastname":"martinez","mail":"martinez@gmail.com","emailConfirmationToken":"c8d346626107efb7a8a940cc3ec64f993c12c9cba3a2c8b53dcae9530e10587d6d61423d0cd903921a970e770361954a720f4f4e7296ee5e2e3575ceacc56164","createdAt":"2023-12-07T04:56:04.394Z","updatedAt":"2023-12-07T04:56:04.394Z","role":"user"}',
+  level: 'info',
+  timestamp: '07-12-2023 04:56:05'
+}
+{
+  message: 'Se manda a renderizar la vista "successfulRegistration.hbs"',
+  level: 'info',
+  timestamp: '07-12-2023 04:56:05'
+}
+{
+  message: 'POST /user/register 200 1053.954 ms - 5502\n',
+  level: 'info',
+  timestamp: '07-12-2023 04:56:05'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 04:56:06'
+}
+{
+  message: 'GET /images/sucess.jpg 200 10.393 ms - 42872\n',
+  level: 'info',
+  timestamp: '07-12-2023 04:56:06'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '07-12-2023 06:14:16'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '07-12-2023 06:14:16'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '07-12-2023 06:14:16'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 06:14:19'
+}
+{
+  message: 'GET / 200 87.475 ms - 5219\n',
+  level: 'info',
+  timestamp: '07-12-2023 06:14:19'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 06:14:23'
+}
+{
+  message: 'GET /project/add 200 26.189 ms - 6335\n',
+  level: 'info',
+  timestamp: '07-12-2023 06:14:23'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 06:14:24'
+}
+{
+  message: 'GET /images/addproject.png 200 3.267 ms - 250615\n',
+  level: 'info',
+  timestamp: '07-12-2023 06:14:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 06:14:27'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '07-12-2023 06:14:27'
+}
+{
+  message: 'GET /user/register 200 11.579 ms - 6460\n',
+  level: 'info',
+  timestamp: '07-12-2023 06:14:27'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 06:15:04'
+}
+{
+  message: 'Se procesa formulario de registro',
+  level: 'info',
+  timestamp: '07-12-2023 06:15:04'
+}
+{
+  message: '🎉 Correo enviado con exito',
+  level: 'info',
+  timestamp: '07-12-2023 06:15:05'
+}
+{
+  message: 'Usuario creado: {"id":"657162e86aeca98e39eefd66","firstName":"Daniela","lastname":"islas","mail":"daniela@gmail.com","emailConfirmationToken":"f5e6bb55e6fd46c0ade91c1a33d36a6f42e88a7ce67cd7004c188e970524614ba5c349bf332007cf1fdebfd42b05318904f1586ad9d50004e7b0c1e7c171cf7d","createdAt":"2023-12-07T06:15:04.310Z","updatedAt":"2023-12-07T06:15:04.310Z","role":"user"}',
+  level: 'info',
+  timestamp: '07-12-2023 06:15:05'
+}
+{
+  message: 'Se manda a renderizar la vista "successfulRegistration.hbs"',
+  level: 'info',
+  timestamp: '07-12-2023 06:15:05'
+}
+{
+  message: 'POST /user/register 200 1069.676 ms - 5499\n',
+  level: 'info',
+  timestamp: '07-12-2023 06:15:05'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 06:15:05'
+}
+{
+  message: 'GET /images/sucess.jpg 200 9.940 ms - 42872\n',
+  level: 'info',
+  timestamp: '07-12-2023 06:15:05'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '07-12-2023 06:21:18'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '07-12-2023 06:21:18'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '07-12-2023 06:21:19'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '07-12-2023 06:21:23'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '07-12-2023 06:21:23'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '07-12-2023 06:21:24'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '07-12-2023 06:23:32'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '07-12-2023 06:23:32'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '07-12-2023 06:23:33'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 06:23:38'
+}
+{
+  message: '404 Pagina no encontrada GET /main.36c209ecd0ce2e735eb4.hot-update.json',
+  level: 'info',
+  timestamp: '07-12-2023 06:23:38'
+}
+{
+  message: 'GET /main.36c209ecd0ce2e735eb4.hot-update.json 404 32.934 ms - 2092\n',
+  level: 'info',
+  timestamp: '07-12-2023 06:23:38'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 06:23:38'
+}
+{
+  message: 'Se procesa formulario de registro',
+  level: 'info',
+  timestamp: '07-12-2023 06:23:38'
+}
+{
+  message: 'user validation failed: mail: Error, expected `mail` to be unique. Value: `daniela@gmail.com`',
+  level: 'error',
+  timestamp: '07-12-2023 06:23:38'
+}
+{
+  message: 'POST /user/register 200 53.256 ms - 459\n',
+  level: 'info',
+  timestamp: '07-12-2023 06:23:38'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '07-12-2023 06:27:51'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '07-12-2023 06:27:51'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '07-12-2023 06:27:51'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '07-12-2023 06:27:53'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '07-12-2023 06:27:53'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '07-12-2023 06:27:53'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '07-12-2023 06:38:59'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '07-12-2023 06:38:59'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '07-12-2023 06:38:59'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '07-12-2023 06:40:48'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '07-12-2023 06:40:48'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '07-12-2023 06:40:48'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '07-12-2023 06:40:50'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '07-12-2023 06:40:50'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '07-12-2023 06:40:50'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '07-12-2023 06:48:47'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '07-12-2023 06:48:47'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '07-12-2023 06:48:47'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 06:49:05'
+}
+{
+  message: 'GET / 200 28.480 ms - 5219\n',
+  level: 'info',
+  timestamp: '07-12-2023 06:49:05'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 06:49:46'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '07-12-2023 06:49:46'
+}
+{
+  message: 'GET /user/register 200 17.433 ms - 6460\n',
+  level: 'info',
+  timestamp: '07-12-2023 06:49:46'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 06:50:51'
+}
+{
+  message: 'Se procesa formulario de registro',
+  level: 'info',
+  timestamp: '07-12-2023 06:50:51'
+}
+{
+  message: '🎉 Correo enviado con exito',
+  level: 'info',
+  timestamp: '07-12-2023 06:50:52'
+}
+{
+  message: 'Usuario creado: {"id":"65716b4b36d163db8ab0ccde","firstName":"yamile","lastname":"hernandez","mail":"yamile@gmail.com","emailConfirmationToken":"9b9868bf3c6c14ae68c7e56439ed8f6e79498ce76f2117b84ba06c7045828c76d0d5e79ad91fdbeafdec79d2dd31dc65e20ec2bbada397cb36b77cecd9335ca1","createdAt":"2023-12-07T06:50:51.673Z","updatedAt":"2023-12-07T06:50:51.673Z","role":"user"}',
+  level: 'info',
+  timestamp: '07-12-2023 06:50:52'
+}
+{
+  message: 'Se manda a renderizar la vista "successfulRegistration.hbs"',
+  level: 'info',
+  timestamp: '07-12-2023 06:50:52'
+}
+{
+  message: 'POST /user/register 200 1277.644 ms - 5501\n',
+  level: 'info',
+  timestamp: '07-12-2023 06:50:52'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '07-12-2023 06:50:53'
+}
+{
+  message: 'GET /images/sucess.jpg 304 19.356 ms - -\n',
+  level: 'info',
+  timestamp: '07-12-2023 06:50:53'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '08-12-2023 06:37:15'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '08-12-2023 06:37:15'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '08-12-2023 06:37:15'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:37:19'
+}
+{
+  message: 'GET / 304 28.407 ms - -\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:37:19'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:37:23'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '08-12-2023 06:37:23'
+}
+{
+  message: 'GET /user/register 200 31.339 ms - 6460\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:37:23'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:38:58'
+}
+{
+  message: 'Se procesa formulario de registro',
+  level: 'info',
+  timestamp: '08-12-2023 06:38:58'
+}
+{
+  message: '🎉 Correo enviado con exito',
+  level: 'info',
+  timestamp: '08-12-2023 06:38:59'
+}
+{
+  message: 'Usuario creado: {"id":"6572ba023b6520b535d2b808","firstName":"ivan1206","lastname":"Rivalcoba","mail":"ivan1206@gmail.com","emailConfirmationToken":"1b03128e2befaf5dac495ef7d24aafc5a62bfb7e564ea65755d38c73315255d398e5aae1f054200587badb0d9a5319001699ddad4c49c8ec664560430cb3f3d2","createdAt":"2023-12-08T06:38:58.792Z","updatedAt":"2023-12-08T06:38:58.792Z","role":"user"}',
+  level: 'info',
+  timestamp: '08-12-2023 06:38:59'
+}
+{
+  message: 'Se manda a renderizar la vista "successfulRegistration.hbs"',
+  level: 'info',
+  timestamp: '08-12-2023 06:38:59'
+}
+{
+  message: 'POST /user/register 200 1042.515 ms - 5505\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:38:59'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:39:00'
+}
+{
+  message: 'GET /images/sucess.jpg 304 2.857 ms - -\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:39:00'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:11'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:11'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:12'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:14'
+}
+{
+  message: 'GET / 200 117.687 ms - 5219\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:14'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:14'
+}
+{
+  message: '404 Pagina no encontrada GET /main.0c54824d503349882f25.hot-update.json',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:14'
+}
+{
+  message: 'GET /main.0c54824d503349882f25.hot-update.json 404 20.518 ms - 2092\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:14'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:15'
+}
+{
+  message: 'Se procesa formulario de registro',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:15'
+}
+{
+  message: 'user validation failed: mail: Error, expected `mail` to be unique. Value: `ivan1206@gmail.com`',
+  level: 'error',
+  timestamp: '08-12-2023 06:40:15'
+}
+{
+  message: 'POST /user/register 200 60.723 ms - 464\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:15'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:15'
+}
+{
+  message: '404 Pagina no encontrada GET /favicon.ico',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:15'
+}
+{
+  message: 'GET /favicon.ico 404 3.268 ms - 2092\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:15'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:18'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:18'
+}
+{
+  message: 'GET /user/register 200 19.102 ms - 6460\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:18'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:59'
+}
+{
+  message: 'Se procesa formulario de registro',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:59'
+}
+{
+  message: 'user validation failed: mail: Error, expected `mail` to be unique. Value: `ivan1206@gmail.com`',
+  level: 'error',
+  timestamp: '08-12-2023 06:40:59'
+}
+{
+  message: 'POST /user/register 200 8.585 ms - 464\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:40:59'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '08-12-2023 06:44:37'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:5000 ⭐⭐',
+  level: 'info',
+  timestamp: '08-12-2023 06:44:37'
+}
+{
+  message: '✅ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '08-12-2023 06:44:37'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:44:44'
+}
+{
+  message: 'GET / 200 63.087 ms - 5218\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:44:44'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:44:48'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '08-12-2023 06:44:48'
+}
+{
+  message: 'GET /user/register 200 15.960 ms - 6460\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:44:48'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:45:23'
+}
+{
+  message: 'Se procesa formulario de registro',
+  level: 'info',
+  timestamp: '08-12-2023 06:45:23'
+}
+{
+  message: '🎉 Correo enviado con exito',
+  level: 'info',
+  timestamp: '08-12-2023 06:45:24'
+}
+{
+  message: 'Usuario creado: {"id":"6572bb839b8143056682887c","firstName":"Daniela","lastname":"islas","mail":"dani@gmail.com","emailConfirmationToken":"b38b0b5e91a43432c0d27ab2a889855c864c47a96be852cb5ac6ee823fbe12784b8c23fc79a14e3abd3a77d353ccddf9c9a73f4be3d35872efcc7d6ba02407b9","createdAt":"2023-12-08T06:45:23.686Z","updatedAt":"2023-12-08T06:45:23.686Z","role":"user"}',
+  level: 'info',
+  timestamp: '08-12-2023 06:45:24'
+}
+{
+  message: 'Se manda a renderizar la vista "successfulRegistration.hbs"',
+  level: 'info',
+  timestamp: '08-12-2023 06:45:24'
+}
+{
+  message: 'POST /user/register 200 1046.087 ms - 5496\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:45:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:45:25'
+}
+{
+  message: 'GET /images/sucess.jpg 304 2.554 ms - -\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:45:25'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:45:56'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '08-12-2023 06:45:56'
+}
+{
+  message: 'GET /user/register 200 12.658 ms - 6460\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:45:56'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:46:43'
+}
+{
+  message: 'Se procesa formulario de registro',
+  level: 'info',
+  timestamp: '08-12-2023 06:46:43'
+}
+{
+  message: '🎉 Correo enviado con exito',
+  level: 'info',
+  timestamp: '08-12-2023 06:46:44'
+}
+{
+  message: 'Usuario creado: {"id":"6572bbd39b81430566828880","firstName":"ivan1206","lastname":"Rivalcoba","mail":"ivan1206@gmail.com","emailConfirmationToken":"795f5c651f90bb389da558c5dd4f0b27cf5be674be90cc48569cb8a4d085b731266dce6ba60b0a07ec4fc22a4d30ebe8c7b30036383c57a4f55f6f25c64ee092","createdAt":"2023-12-08T06:46:43.235Z","updatedAt":"2023-12-08T06:46:43.235Z","role":"user"}',
+  level: 'info',
+  timestamp: '08-12-2023 06:46:44'
+}
+{
+  message: 'Se manda a renderizar la vista "successfulRegistration.hbs"',
+  level: 'info',
+  timestamp: '08-12-2023 06:46:44'
+}
+{
+  message: 'POST /user/register 200 947.194 ms - 5505\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:46:44'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '08-12-2023 06:46:44'
+}
+{
+  message: 'GET /images/sucess.jpg 304 3.108 ms - -\n',
+  level: 'info',
+  timestamp: '08-12-2023 06:46:44'
+}

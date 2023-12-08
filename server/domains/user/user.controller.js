@@ -21,6 +21,22 @@ const register = (req, res) => {
   res.render('user/register');
 };
 
+// GET user/confirm/<token>
+const confirm = async (req, res) => {
+  // Extrayendo datos de validación
+  const { validData, errorData } = req;
+  if (errorData) return res.json(errorData);
+  const { token } = validData;
+  // Buscando si existe un usuario con ese token
+  const user = await User.findByToken(token);
+  if (!user) {
+    return res.send('USER WITH TOKEN NOT FOUND');
+  }
+  // Activate user
+  await user.activate();
+  return res.send(`Usuario: ${user.firstName} Validado`);
+};
+
 // POST '/user/register'
 const registerPost = async (req, res) => {
   const { validData: userFormData, errorData } = req;
@@ -35,8 +51,14 @@ const registerPost = async (req, res) => {
     // mendiante la funcion create del modelo
     const user = await User.create(userFormData);
     log.info(`Usuario creado: ${JSON.stringify(user)}`);
-    // 3. Se contesta al cliente con el usuario creado
-    return res.status(200).json(user.toJSON());
+    // Se construye el viewModel del usuario
+    const viewModel = {
+      ...user.toJSON(),
+      // Color de fondo
+      backgroundColor: 'cyan darken-2',
+    };
+    log.info('Se manda a renderizar la vista "successfulRegistration.hbs"');
+    return res.render('user/successfulRegistration', viewModel);
   } catch (error) {
     log.error(error.message);
     return res.json({
@@ -51,4 +73,5 @@ export default {
   logout,
   register,
   registerPost,
+  confirm,
 };
